@@ -1,0 +1,2 @@
+# gtregtr
+açık kaynak
